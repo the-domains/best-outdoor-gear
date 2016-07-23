@@ -1,0 +1,28 @@
+name: Best Outdoor Gear
+favicon: null
+layout_spectrum: 0.23759177746251225
+typography_spectrum: 0.6018378443550318
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.18932905117981136
+  lightness: 0.5293873010668904
+  saturation: 0.6503265320789069
+  rhythmicContrast: 0.3130213716067374
+purpose: []
